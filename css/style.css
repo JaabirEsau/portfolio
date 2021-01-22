@@ -490,7 +490,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #0078ff;
+  background-color: black;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
