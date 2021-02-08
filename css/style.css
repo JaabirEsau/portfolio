@@ -1325,4 +1325,19 @@ animation:         ca3_fade_move_down 2s ease-in-out infinite;
 100% { transform:translate(0,20px); opacity: 0; }
 }
 
-
+ /*work paragraphs */
+.track{
+  margin-bottom: 0rem;
+}
+.contacts{
+  margin-bottom: 0rem;
+}
+.finder{
+  margin-bottom: 0rem;
+}
+.fitness{
+  margin-bottom: 0rem;
+}
+.non-profit{
+  margin-bottom: 0rem;
+}
