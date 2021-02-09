@@ -172,7 +172,7 @@ a:hover {
 }
 
 .lead {
-  font-weight: 600 !important;
+  font-weight: 400 !important;
 }
 
 .title-left {
@@ -639,7 +639,8 @@ a:hover {
 }
 
 .about-mf .about-img img {
-  margin-left: 10px;
+  margin-left: 30px;
+
 }
 
 .skill-mf span {
